@@ -59,3 +59,4 @@ console.log(playerScore);
 alert("Your score " + playerScore + " " + "Computer score "+ computerScore + " Tie " + tie)
 }
 document.getElementById("round").innerHTML= i;
+// 
